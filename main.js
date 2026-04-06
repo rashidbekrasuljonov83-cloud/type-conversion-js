@@ -9,6 +9,16 @@
 
 //============================================================================================================================
 
+// 3-masala
+
+// sizda bitta musbat son bor siz uning 17% qiymatni nechaga teng ekanligini console ga chiqaring
+
+// let son = 460;
+// let foizi = son * 0.17;
+// console.log("17 foizi: " + foizi);
+
+//============================================================================================================================
+
 // 4-masala
 
 // Toq yoki juft (faqat operator bilan)   let n = 7;   вќ“ Shart: рџ‘‰   if ishlatmasdan:   "toq"   "juft"   chiqaring
