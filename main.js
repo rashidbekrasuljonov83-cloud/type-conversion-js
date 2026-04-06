@@ -16,3 +16,13 @@
 // let son = 20;
 // let natijasi = (son % 2 === 0 && "Juft") || "Toq";
 // console.log(natijasi);
+
+//============================================================================================================================
+
+// 5-masala
+
+//   3 ga boвЂlinadimi?  let n = 15;  рџ“Њ Shart:  if ishlatmasdan   "yes" yoki "no" chiqaring
+
+// let a = 4659;
+// let natijasi = (a % 3 === 0 && "bo'linadi") || "bo'linmaydi";
+// console.log(natijasi);
