@@ -34,5 +34,6 @@
 //   3 ga boвЂlinadimi?  let n = 15;  рџ“Њ Shart:  if ishlatmasdan   "yes" yoki "no" chiqaring
 
 // let a = 4659;
-// let natijasi = (a % 3 === 0 && "bo'linadi") || "bo'linmaydi";
+// let natijasi = (a % 3 === 0 && "yes") || "no";
 // console.log(natijasi);
+ 
